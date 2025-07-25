@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋 I'm Obssa Degefu</h1>
 
 <p align="center">
-  🚀 <strong>Software Engineer</strong> | 🤖 Competitive Programmer | 🌱 Lifelong Learner  
+  🚀 <strong>Software Engineer</strong> | 🤖 Competitive Programmer  
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=I+build+things+that+matter.;I+love+optimizing+code.;Code.+Compete.+Improve." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+at+AAiT.;" />
 </p>
 
 ---
@@ -26,16 +26,6 @@
 - 🧩 Passionate about **competitive programming** and **algorithmic challenges**  
 - 🚀 Always looking to **optimize code** and discover **better, faster solutions**  
 - ⚙️ Enjoy building projects that **solve real problems** and **push my skills**
-
----
-
-## 🚀 Highlighted Project
-
-### 📦 [minigit](https://github.com/ob22a/minigit)
-> A lightweight version control system inspired by Git — built for learning, experimentation, and understanding the core principles of versioning.
-
-🔍 Peek into how Git works under the hood!  
-📘 Great for CS students, hobbyists, and curious developers alike.
 
 ---
 
@@ -75,7 +65,5 @@
 ---
 
 <p align="center">
-  💡 Code. Compete. Collaborate. Create.  
-  <br>
   ✨ Let's build something awesome together!
 </p>
