@@ -51,7 +51,40 @@
 </div>
 
 <!--START_SECTION:selected-projects-->
-_Populated automatically._
+<div align="center">
+
+<table>
+<tr>
+  <td width="50%">
+    <h3><a href="https://github.com/ob22a/Leetcode">Leetcode</a></h3>
+    <p>🚀 My LeetCode journey — clean, categorized solutions with comments for learning, interviews & review 📚🧩</p>
+    <p><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></p>
+    <p><sub>🔨 2950 commits · ⭐ 1</sub></p>
+  </td>
+  <td width="50%">
+    <h3><a href="https://github.com/ob22a/CiviLink">CiviLink</a></h3>
+    <p>A secure, role-based government services portal built on the MERN stack. Features strict data validation, production-grade RBAC authentication, and a comprehensive suite of nearly 200 tests</p>
+    <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/Chapa-payment-integration-1E293B?style=flat-square" alt="Chapa-payment-integration" /> <img src="https://img.shields.io/badge/Exceljs-1E293B?style=flat-square" alt="Exceljs" /></p>
+    <p><sub>🔨 195 commits · ⭐ 2</sub></p>
+  </td>
+</tr>
+<tr>
+  <td width="50%">
+    <h3><a href="https://github.com/ob22a/Codeforce">Codeforce</a></h3>
+    <p>A growing collection of my personal Codeforces problem solutions 🧩 </p>
+    <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /></p>
+    <p><sub>🔨 163 commits · ⭐ 0</sub></p>
+  </td>
+  <td width="50%">
+    <h3><a href="https://github.com/ob22a/Web-donation">Web-donation</a></h3>
+    <p>A comprehensive full-stack web application designed to bridge the gap between donors and Non-Governmental Organizations (NGOs). This platform facilitates transparent, secure, and efficient online donations for various campaigns and causes.</p>
+    <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/Bcrypt-1E293B?style=flat-square" alt="Bcrypt" /> <img src="https://img.shields.io/badge/Cloudinary-1E293B?style=flat-square" alt="Cloudinary" /></p>
+    <p><sub>🔨 49 commits · ⭐ 0</sub></p>
+  </td>
+</tr>
+</table>
+
+</div>
 <!--END_SECTION:selected-projects-->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3" width="100%"/>
@@ -61,7 +94,14 @@ _Populated automatically._
 </div>
 
 <!--START_SECTION:recent-repos-->
-_Populated automatically._
+| Repo | Description | Language | Stars | Last Push &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+| :--- | :--- | :--- | :---: | :--- |
+| [`Leetcode`](https://github.com/ob22a/Leetcode) | 🚀 My LeetCode journey — clean, categorized solutions with comments for learning, interviews & review 📚🧩 | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ⭐&nbsp;1 | Aug&nbsp;3,&nbsp;2026 |
+| [`veil-vote`](https://github.com/ob22a/veil-vote) | Private voting dApp on the Midnight blockchain. Built for MLH Midnight Hackathon | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ⭐&nbsp;0 | Jul&nbsp;18,&nbsp;2026 |
+| [`Web-donation`](https://github.com/ob22a/Web-donation) | A comprehensive full-stack web application designed to bridge the gap between donors and Non-Governmental Organizations (NGOs). This platform facilitates transparent, secure, and efficient online donations for various campaigns and causes. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ⭐&nbsp;0 | Jul&nbsp;14,&nbsp;2026 |
+| [`CiviLink`](https://github.com/ob22a/CiviLink) | A secure, role-based government services portal built on the MERN stack. Features strict data validation, production-grade RBAC authentication, and a comprehensive suite of nearly 200 tests | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ⭐&nbsp;2 | Jul&nbsp;13,&nbsp;2026 |
+| [`Weather-now`](https://github.com/ob22a/Weather-now) | A full-stack weather application that detects your location, lets you search for cities, and displays current conditions with daily and hourly forecasts. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ⭐&nbsp;0 | Jul&nbsp;7,&nbsp;2026 |
+| [`Codeforce`](https://github.com/ob22a/Codeforce) | A growing collection of my personal Codeforces problem solutions 🧩  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐&nbsp;0 | Jul&nbsp;7,&nbsp;2026 |
 <!--END_SECTION:recent-repos-->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3" width="100%"/>
@@ -71,7 +111,25 @@ _Populated automatically._
 </div>
 
 <!--START_SECTION:languages-->
-_Populated automatically._
+<div align="center">
+
+<svg width="100%" height="10" rx="5" xmlns="http://www.w3.org/2000/svg" style="border-radius: 5px; overflow: hidden;">
+  <rect x="0.00%" y="0" width="31.14%" height="10" fill="#f1e05a" />
+  <rect x="31.14%" y="0" width="22.57%" height="10" fill="#3572A5" />
+  <rect x="53.71%" y="0" width="14.72%" height="10" fill="#3178c6" />
+  <rect x="68.43%" y="0" width="11.95%" height="10" fill="#563d7c" />
+  <rect x="80.38%" y="0" width="10.48%" height="10" fill="#f34b7d" />
+  <rect x="90.86%" y="0" width="4.58%" height="10" fill="#DA5B0B" />
+  <rect x="95.44%" y="0" width="3.07%" height="10" fill="#e34c26" />
+</svg>
+
+<br/>
+
+<p align="center">
+<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <b>31.1%</b></span> &nbsp;•&nbsp; <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <b>22.6%</b></span> &nbsp;•&nbsp; <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <b>14.7%</b></span> &nbsp;•&nbsp; <span><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /> <b>12.0%</b></span> &nbsp;•&nbsp; <span><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <b>10.5%</b></span> &nbsp;•&nbsp; <span><img src="https://img.shields.io/badge/Jupyter%20Notebook-1E293B?style=flat-square" alt="Jupyter Notebook" /> <b>4.6%</b></span> &nbsp;•&nbsp; <span><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <b>3.1%</b></span>
+</p>
+
+</div>
 <!--END_SECTION:languages-->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3" width="100%"/>
@@ -86,7 +144,9 @@ _Populated automatically._
 </div>
 
 <!--START_SECTION:cp-stats-->
-_Populated automatically._
+**Codeforces** — [`ob22a`](https://codeforces.com/profile/ob22a) · rating **1089** (max 1089) · newbie · **124** solved ┆ 📁 [*Repository*](https://github.com/ob22a/Codeforce)
+
+**LeetCode** — [`ob22a`](https://leetcode.com/ob22a) · **684** solved (308 easy / 323 medium / 53 hard) ┆ 📁 [*Repository*](https://github.com/ob22a/Leetcode)
 <!--END_SECTION:cp-stats-->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3" width="100%"/>
