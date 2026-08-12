@@ -64,7 +64,7 @@
   <td width="50%">
     <h3><a href="https://github.com/ob22a/CiviLink">CiviLink</a></h3>
     <p>A secure, role-based government services portal built on the MERN stack. Features strict data validation, production-grade RBAC authentication, and a comprehensive suite of nearly 200 tests</p>
-    <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/Chapa-payment-integration-1E293B?style=flat-square" alt="Chapa-payment-integration" /> <img src="https://img.shields.io/badge/Exceljs-1E293B?style=flat-square" alt="Exceljs" /></p>
+    <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/Chapa%20payment%20integration-1E293B?style=flat-square" alt="Chapa payment integration" /> <img src="https://img.shields.io/badge/Exceljs-1E293B?style=flat-square" alt="Exceljs" /></p>
     <p><sub>🔨 195 commits · ⭐ 2</sub></p>
   </td>
 </tr>
@@ -100,8 +100,6 @@
 | [`veil-vote`](https://github.com/ob22a/veil-vote) | Private voting dApp on the Midnight blockchain. Built for MLH Midnight Hackathon | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ⭐&nbsp;0 | Jul&nbsp;18,&nbsp;2026 |
 | [`Web-donation`](https://github.com/ob22a/Web-donation) | A comprehensive full-stack web application designed to bridge the gap between donors and Non-Governmental Organizations (NGOs). This platform facilitates transparent, secure, and efficient online donations for various campaigns and causes. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ⭐&nbsp;0 | Jul&nbsp;14,&nbsp;2026 |
 | [`CiviLink`](https://github.com/ob22a/CiviLink) | A secure, role-based government services portal built on the MERN stack. Features strict data validation, production-grade RBAC authentication, and a comprehensive suite of nearly 200 tests | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ⭐&nbsp;2 | Jul&nbsp;13,&nbsp;2026 |
-| [`Weather-now`](https://github.com/ob22a/Weather-now) | A full-stack weather application that detects your location, lets you search for cities, and displays current conditions with daily and hourly forecasts. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ⭐&nbsp;0 | Jul&nbsp;7,&nbsp;2026 |
-| [`Codeforce`](https://github.com/ob22a/Codeforce) | A growing collection of my personal Codeforces problem solutions 🧩  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐&nbsp;0 | Jul&nbsp;7,&nbsp;2026 |
 <!--END_SECTION:recent-repos-->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3" width="100%"/>
@@ -121,13 +119,39 @@
   <rect x="80.38%" y="0" width="10.48%" height="10" fill="#f34b7d" />
   <rect x="90.86%" y="0" width="4.58%" height="10" fill="#DA5B0B" />
   <rect x="95.44%" y="0" width="3.07%" height="10" fill="#e34c26" />
+  <rect x="98.51%" y="0" width="0.42%" height="10" fill="#38BDF8" />
+  <rect x="98.94%" y="0" width="0.32%" height="10" fill="#38BDF8" />
+  <rect x="99.25%" y="0" width="0.25%" height="10" fill="#00ADD8" />
+  <rect x="99.50%" y="0" width="0.13%" height="10" fill="#00B4AB" />
+  <rect x="99.63%" y="0" width="0.12%" height="10" fill="#A97BFF" />
+  <rect x="99.75%" y="0" width="0.11%" height="10" fill="#b07219" />
 </svg>
 
 <br/>
 
-<p align="center">
-<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <b>31.1%</b></span> &nbsp;•&nbsp; <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <b>22.6%</b></span> &nbsp;•&nbsp; <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <b>14.7%</b></span> &nbsp;•&nbsp; <span><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /> <b>12.0%</b></span> &nbsp;•&nbsp; <span><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <b>10.5%</b></span> &nbsp;•&nbsp; <span><img src="https://img.shields.io/badge/Jupyter%20Notebook-1E293B?style=flat-square" alt="Jupyter Notebook" /> <b>4.6%</b></span> &nbsp;•&nbsp; <span><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <b>3.1%</b></span>
-</p>
+<table>
+<tr>
+  <td align="center" width="25%"><b>#1</b><br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /><br/><sub><b>31.1%</b></sub></td>
+  <td align="center" width="25%"><b>#2</b><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br/><sub><b>22.6%</b></sub></td>
+  <td align="center" width="25%"><b>#3</b><br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /><br/><sub><b>14.7%</b></sub></td>
+  <td align="center" width="25%"><b>#4</b><br/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /><br/><sub><b>12.0%</b></sub></td>
+</tr>
+<tr>
+  <td align="center" width="25%"><b>#5</b><br/><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /><br/><sub><b>10.5%</b></sub></td>
+  <td align="center" width="25%"><b>#6</b><br/><img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /><br/><sub><b>4.6%</b></sub></td>
+  <td align="center" width="25%"><b>#7</b><br/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /><br/><sub><b>3.1%</b></sub></td>
+  <td align="center" width="25%"><b>#8</b><br/><img src="https://img.shields.io/badge/CMake-1E293B?style=flat-square" alt="CMake" /><br/><sub><b>0.4%</b></sub></td>
+</tr>
+<tr>
+  <td align="center" width="25%"><b>#9</b><br/><img src="https://img.shields.io/badge/EJS-1E293B?style=flat-square" alt="EJS" /><br/><sub><b>0.3%</b></sub></td>
+  <td align="center" width="25%"><b>#10</b><br/><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" /><br/><sub><b>0.3%</b></sub></td>
+  <td align="center" width="25%"><b>#11</b><br/><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /><br/><sub><b>0.1%</b></sub></td>
+  <td align="center" width="25%"><b>#12</b><br/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /><br/><sub><b>0.1%</b></sub></td>
+</tr>
+<tr>
+  <td align="center" width="25%"><b>#13</b><br/><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /><br/><sub><b>0.1%</b></sub></td>
+</tr>
+</table>
 
 </div>
 <!--END_SECTION:languages-->
