@@ -53,30 +53,30 @@
 <table width="100%">
 <tr>
   <td width="50%">
-    <h3><a href="https://github.com/ob22a/Leetcode">Leetcode</a></h3>
-    <p>🚀 My LeetCode journey — clean, categorized solutions with comments for learning, interviews & review 📚🧩</p>
-    <p><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></p>
-    <p><sub>🔨 2950 commits · ⭐ 1</sub></p>
-  </td>
-  <td width="50%">
     <h3><a href="https://github.com/ob22a/ai-lab">ai-lab</a></h3>
     <p>A highly modular Object-Oriented AI framework and interactive lab implemented in Python. Features automated benchmarking, pluggable solver engines, and interactive Pygame visualizers for Search, CSPs, Optimization, and Adversarial Games.</p>
     <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Adversarial%20search-1E293B?style=flat-square" alt="Adversarial search" /> <img src="https://img.shields.io/badge/Ai%20visualization-1E293B?style=flat-square" alt="Ai visualization" /></p>
     <p><sub>🔨 102 commits · ⭐ 4</sub></p>
   </td>
-</tr>
-<tr>
   <td width="50%">
     <h3><a href="https://github.com/ob22a/CiviLink">CiviLink</a></h3>
     <p>A secure, role-based government services portal built on the MERN stack. Features strict data validation, production-grade RBAC authentication, and a comprehensive suite of nearly 200 tests</p>
     <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/Chapa%20payment%20integration-1E293B?style=flat-square" alt="Chapa payment integration" /> <img src="https://img.shields.io/badge/Exceljs-1E293B?style=flat-square" alt="Exceljs" /></p>
     <p><sub>🔨 195 commits · ⭐ 2</sub></p>
   </td>
+</tr>
+<tr>
   <td width="50%">
-    <h3><a href="https://github.com/ob22a/Codeforce">Codeforce</a></h3>
-    <p>A growing collection of my personal Codeforces problem solutions 🧩 </p>
-    <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /></p>
-    <p><sub>🔨 163 commits · ⭐ 0</sub></p>
+    <h3><a href="https://github.com/ob22a/Web-donation">Web-donation</a></h3>
+    <p>A comprehensive full-stack web application designed to bridge the gap between donors and Non-Governmental Organizations (NGOs). This platform facilitates transparent, secure, and efficient online donations for various campaigns and causes.</p>
+    <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/Bcrypt-1E293B?style=flat-square" alt="Bcrypt" /> <img src="https://img.shields.io/badge/Cloudinary-1E293B?style=flat-square" alt="Cloudinary" /></p>
+    <p><sub>🔨 49 commits · ⭐ 0</sub></p>
+  </td>
+  <td width="50%">
+    <h3><a href="https://github.com/ob22a/Weather-now">Weather-now</a></h3>
+    <p>A full-stack weather application that detects your location, lets you search for cities, and displays current conditions with daily and hourly forecasts.</p>
+    <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /></p>
+    <p><sub>🔨 39 commits · ⭐ 0</sub></p>
   </td>
 </tr>
 </table>
