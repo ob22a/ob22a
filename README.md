@@ -104,6 +104,13 @@
   <rect x="99.04%" y="0" width="0.27%" height="10" fill="#38BDF8" />
   <rect x="99.31%" y="0" width="0.20%" height="10" fill="#38BDF8" />
   <rect x="99.51%" y="0" width="0.16%" height="10" fill="#00ADD8" />
+  <rect x="99.67%" y="0" width="0.08%" height="10" fill="#00B4AB" />
+  <rect x="99.75%" y="0" width="0.08%" height="10" fill="#A97BFF" />
+  <rect x="99.83%" y="0" width="0.07%" height="10" fill="#b07219" />
+  <rect x="99.90%" y="0" width="0.03%" height="10" fill="#38BDF8" />
+  <rect x="99.93%" y="0" width="0.03%" height="10" fill="#38BDF8" />
+  <rect x="99.95%" y="0" width="0.02%" height="10" fill="#555555" />
+  <rect x="99.97%" y="0" width="0.02%" height="10" fill="#38BDF8" />
 </svg>
 
 <br/>
@@ -122,6 +129,17 @@
   <td align="center" width="20%"><b>#8</b><br/><img src="https://img.shields.io/badge/CMake-1E293B?style=flat-square" alt="CMake" /><br/><sub><b>0.3%</b></sub></td>
   <td align="center" width="20%"><b>#9</b><br/><img src="https://img.shields.io/badge/EJS-1E293B?style=flat-square" alt="EJS" /><br/><sub><b>0.2%</b></sub></td>
   <td align="center" width="20%"><b>#10</b><br/><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" /><br/><sub><b>0.2%</b></sub></td>
+</tr>
+<tr>
+  <td align="center" width="20%"><b>#11</b><br/><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /><br/><sub><b>0.1%</b></sub></td>
+  <td align="center" width="20%"><b>#12</b><br/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /><br/><sub><b>0.1%</b></sub></td>
+  <td align="center" width="20%"><b>#13</b><br/><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /><br/><sub><b>0.1%</b></sub></td>
+  <td align="center" width="20%"><b>#14</b><br/><img src="https://img.shields.io/badge/Swift-1E293B?style=flat-square" alt="Swift" /><br/><sub><b>0.0%</b></sub></td>
+  <td align="center" width="20%"><b>#15</b><br/><img src="https://img.shields.io/badge/Dockerfile-1E293B?style=flat-square" alt="Dockerfile" /><br/><sub><b>0.0%</b></sub></td>
+</tr>
+<tr>
+  <td align="center" width="20%"><b>#16</b><br/><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" /><br/><sub><b>0.0%</b></sub></td>
+  <td align="center" width="20%"><b>#17</b><br/><img src="https://img.shields.io/badge/Mako-1E293B?style=flat-square" alt="Mako" /><br/><sub><b>0.0%</b></sub></td>
 </tr>
 </table>
 
