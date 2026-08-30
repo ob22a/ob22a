@@ -94,37 +94,36 @@
 <div align="center">
 
 <svg width="100%" height="10" rx="5" xmlns="http://www.w3.org/2000/svg" style="border-radius: 5px; overflow: hidden;">
-  <rect x="0.00%" y="0" width="28.54%" height="10" fill="#3572A5" />
-  <rect x="28.54%" y="0" width="21.26%" height="10" fill="#f34b7d" />
-  <rect x="49.79%" y="0" width="12.35%" height="10" fill="#f1e05a" />
-  <rect x="62.14%" y="0" width="10.80%" height="10" fill="#3178c6" />
-  <rect x="72.94%" y="0" width="4.65%" height="10" fill="#563d7c" />
-  <rect x="77.59%" y="0" width="2.75%" height="10" fill="#e34c26" />
-  <rect x="80.34%" y="0" width="2.42%" height="10" fill="#DA5B0B" />
-  <rect x="82.76%" y="0" width="1.73%" height="10" fill="#A97BFF" />
-  <rect x="84.50%" y="0" width="1.60%" height="10" fill="#00ADD8" />
-  <rect x="86.10%" y="0" width="1.60%" height="10" fill="#38BDF8" />
-  <rect x="87.69%" y="0" width="1.55%" height="10" fill="#38BDF8" />
-  <rect x="89.25%" y="0" width="1.44%" height="10" fill="#b07219" />
-  <rect x="90.69%" y="0" width="1.43%" height="10" fill="#00B4AB" />
-  <rect x="92.12%" y="0" width="1.41%" height="10" fill="#F05138" />
-  <rect x="93.53%" y="0" width="1.39%" height="10" fill="#555555" />
-  <rect x="94.91%" y="0" width="1.23%" height="10" fill="#38BDF8" />
-  <rect x="96.14%" y="0" width="1.18%" height="10" fill="#38BDF8" />
-  <rect x="97.32%" y="0" width="1.01%" height="10" fill="#4479A1" />
-  <rect x="98.33%" y="0" width="0.97%" height="10" fill="#89e051" />
-  <rect x="99.31%" y="0" width="0.61%" height="10" fill="#38BDF8" />
-  <rect x="99.92%" y="0" width="0.08%" height="10" fill="#38BDF8" />
+  <rect x="0.00%" y="0" width="28.53%" height="10" fill="#3572A5" />
+  <rect x="28.53%" y="0" width="21.25%" height="10" fill="#f34b7d" />
+  <rect x="49.78%" y="0" width="12.40%" height="10" fill="#f1e05a" />
+  <rect x="62.17%" y="0" width="10.79%" height="10" fill="#3178c6" />
+  <rect x="72.97%" y="0" width="4.65%" height="10" fill="#563d7c" />
+  <rect x="77.62%" y="0" width="2.75%" height="10" fill="#e34c26" />
+  <rect x="80.37%" y="0" width="2.42%" height="10" fill="#DA5B0B" />
+  <rect x="82.79%" y="0" width="1.73%" height="10" fill="#A97BFF" />
+  <rect x="84.52%" y="0" width="1.60%" height="10" fill="#00ADD8" />
+  <rect x="86.12%" y="0" width="1.60%" height="10" fill="#38BDF8" />
+  <rect x="87.72%" y="0" width="1.55%" height="10" fill="#38BDF8" />
+  <rect x="89.28%" y="0" width="1.44%" height="10" fill="#b07219" />
+  <rect x="90.71%" y="0" width="1.43%" height="10" fill="#00B4AB" />
+  <rect x="92.15%" y="0" width="1.41%" height="10" fill="#F05138" />
+  <rect x="93.56%" y="0" width="1.39%" height="10" fill="#555555" />
+  <rect x="94.94%" y="0" width="1.29%" height="10" fill="#38BDF8" />
+  <rect x="96.23%" y="0" width="1.18%" height="10" fill="#38BDF8" />
+  <rect x="97.41%" y="0" width="1.01%" height="10" fill="#4479A1" />
+  <rect x="98.42%" y="0" width="0.97%" height="10" fill="#89e051" />
+  <rect x="99.39%" y="0" width="0.61%" height="10" fill="#38BDF8" />
 </svg>
 
 <br/>
 
 <table width="100%">
 <tr>
-  <td align="center" width="20%"><b>#1</b><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br/><sub><b>28.54%</b></sub></td>
-  <td align="center" width="20%"><b>#2</b><br/><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /><br/><sub><b>21.26%</b></sub></td>
-  <td align="center" width="20%"><b>#3</b><br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /><br/><sub><b>12.35%</b></sub></td>
-  <td align="center" width="20%"><b>#4</b><br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /><br/><sub><b>10.80%</b></sub></td>
+  <td align="center" width="20%"><b>#1</b><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br/><sub><b>28.53%</b></sub></td>
+  <td align="center" width="20%"><b>#2</b><br/><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /><br/><sub><b>21.25%</b></sub></td>
+  <td align="center" width="20%"><b>#3</b><br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /><br/><sub><b>12.40%</b></sub></td>
+  <td align="center" width="20%"><b>#4</b><br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /><br/><sub><b>10.79%</b></sub></td>
   <td align="center" width="20%"><b>#5</b><br/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /><br/><sub><b>4.65%</b></sub></td>
 </tr>
 <tr>
@@ -142,14 +141,11 @@
   <td align="center" width="20%"><b>#15</b><br/><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" /><br/><sub><b>1.39%</b></sub></td>
 </tr>
 <tr>
-  <td align="center" width="20%"><b>#16</b><br/><img src="https://img.shields.io/badge/Dockerfile-1E293B?style=flat-square" alt="Dockerfile" /><br/><sub><b>1.23%</b></sub></td>
+  <td align="center" width="20%"><b>#16</b><br/><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /><br/><sub><b>1.29%</b></sub></td>
   <td align="center" width="20%"><b>#17</b><br/><img src="https://img.shields.io/badge/Mako-1E293B?style=flat-square" alt="Mako" /><br/><sub><b>1.18%</b></sub></td>
   <td align="center" width="20%"><b>#18</b><br/><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" /><br/><sub><b>1.01%</b></sub></td>
   <td align="center" width="20%"><b>#19</b><br/><img src="https://img.shields.io/badge/Shell-89E051?style=flat-square&logo=gnubash&logoColor=black" alt="Shell" /><br/><sub><b>0.97%</b></sub></td>
   <td align="center" width="20%"><b>#20</b><br/><img src="https://img.shields.io/badge/Objective%20C-1E293B?style=flat-square" alt="Objective C" /><br/><sub><b>0.61%</b></sub></td>
-</tr>
-<tr>
-  <td align="center" width="20%"><b>#21</b><br/><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /><br/><sub><b>0.08%</b></sub></td>
 </tr>
 </table>
 
