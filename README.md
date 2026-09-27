@@ -94,33 +94,33 @@
 <div align="center">
 
 <svg width="100%" height="10" rx="5" xmlns="http://www.w3.org/2000/svg" style="border-radius: 5px; overflow: hidden;">
-  <rect x="0.00%" y="0" width="33.59%" height="10" fill="#3572A5" />
-  <rect x="33.59%" y="0" width="22.71%" height="10" fill="#f1e05a" />
-  <rect x="56.30%" y="0" width="14.79%" height="10" fill="#3178c6" />
-  <rect x="71.09%" y="0" width="9.12%" height="10" fill="#563d7c" />
-  <rect x="80.21%" y="0" width="7.56%" height="10" fill="#f34b7d" />
-  <rect x="87.77%" y="0" width="4.42%" height="10" fill="#DA5B0B" />
-  <rect x="92.18%" y="0" width="4.14%" height="10" fill="#A97BFF" />
-  <rect x="96.33%" y="0" width="2.53%" height="10" fill="#e34c26" />
-  <rect x="98.86%" y="0" width="0.31%" height="10" fill="#38BDF8" />
-  <rect x="99.16%" y="0" width="0.28%" height="10" fill="#00ADD8" />
-  <rect x="99.44%" y="0" width="0.23%" height="10" fill="#38BDF8" />
+  <rect x="0.00%" y="0" width="31.51%" height="10" fill="#3572A5" />
+  <rect x="31.51%" y="0" width="23.41%" height="10" fill="#f1e05a" />
+  <rect x="54.93%" y="0" width="15.22%" height="10" fill="#3178c6" />
+  <rect x="70.15%" y="0" width="9.48%" height="10" fill="#563d7c" />
+  <rect x="79.63%" y="0" width="7.79%" height="10" fill="#f34b7d" />
+  <rect x="87.42%" y="0" width="4.56%" height="10" fill="#DA5B0B" />
+  <rect x="91.97%" y="0" width="4.27%" height="10" fill="#A97BFF" />
+  <rect x="96.25%" y="0" width="2.56%" height="10" fill="#e34c26" />
+  <rect x="98.81%" y="0" width="0.32%" height="10" fill="#38BDF8" />
+  <rect x="99.13%" y="0" width="0.29%" height="10" fill="#00ADD8" />
+  <rect x="99.41%" y="0" width="0.23%" height="10" fill="#38BDF8" />
 </svg>
 
 <br/>
 
 <table width="100%">
 <tr>
-  <td align="center" width="20%"><b>#1</b><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br/><sub><b>33.6%</b></sub></td>
-  <td align="center" width="20%"><b>#2</b><br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /><br/><sub><b>22.7%</b></sub></td>
-  <td align="center" width="20%"><b>#3</b><br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /><br/><sub><b>14.8%</b></sub></td>
-  <td align="center" width="20%"><b>#4</b><br/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /><br/><sub><b>9.1%</b></sub></td>
-  <td align="center" width="20%"><b>#5</b><br/><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /><br/><sub><b>7.6%</b></sub></td>
+  <td align="center" width="20%"><b>#1</b><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br/><sub><b>31.5%</b></sub></td>
+  <td align="center" width="20%"><b>#2</b><br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /><br/><sub><b>23.4%</b></sub></td>
+  <td align="center" width="20%"><b>#3</b><br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /><br/><sub><b>15.2%</b></sub></td>
+  <td align="center" width="20%"><b>#4</b><br/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /><br/><sub><b>9.5%</b></sub></td>
+  <td align="center" width="20%"><b>#5</b><br/><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /><br/><sub><b>7.8%</b></sub></td>
 </tr>
 <tr>
-  <td align="center" width="20%"><b>#6</b><br/><img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /><br/><sub><b>4.4%</b></sub></td>
-  <td align="center" width="20%"><b>#7</b><br/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /><br/><sub><b>4.1%</b></sub></td>
-  <td align="center" width="20%"><b>#8</b><br/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /><br/><sub><b>2.5%</b></sub></td>
+  <td align="center" width="20%"><b>#6</b><br/><img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /><br/><sub><b>4.6%</b></sub></td>
+  <td align="center" width="20%"><b>#7</b><br/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /><br/><sub><b>4.3%</b></sub></td>
+  <td align="center" width="20%"><b>#8</b><br/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /><br/><sub><b>2.6%</b></sub></td>
   <td align="center" width="20%"><b>#9</b><br/><img src="https://img.shields.io/badge/CMake-1E293B?style=flat-square" alt="CMake" /><br/><sub><b>0.3%</b></sub></td>
   <td align="center" width="20%"><b>#10</b><br/><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" /><br/><sub><b>0.3%</b></sub></td>
 </tr>
@@ -147,7 +147,7 @@
 <!--START_SECTION:cp-stats-->
 <div align="center">
 
-**Codeforces** — [`ob22a`](https://codeforces.com/profile/ob22a) · rating **1091** (max 1091) · newbie · **251** solved ┆ 📁 [*Repository*](https://github.com/ob22a/Codeforce)<br/><br/>**LeetCode** — [`ob22a`](https://leetcode.com/ob22a) · **688** solved (308 easy / 327 medium / 53 hard) ┆ 📁 [*Repository*](https://github.com/ob22a/Leetcode)
+**Codeforces** — [`ob22a`](https://codeforces.com/profile/ob22a) · rating **1091** (max 1091) · newbie · **251** solved ┆ 📁 [*Repository*](https://github.com/ob22a/Codeforce)<br/><br/>**LeetCode** — [`ob22a`](https://leetcode.com/ob22a) · **694** solved (309 easy / 331 medium / 54 hard) ┆ 📁 [*Repository*](https://github.com/ob22a/Leetcode)
 
 </div>
 <!--END_SECTION:cp-stats-->
