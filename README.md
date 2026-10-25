@@ -106,6 +106,8 @@
   <rect x="99.38%" y="0" width="0.18%" height="10" fill="#00ADD8" />
   <rect x="99.56%" y="0" width="0.15%" height="10" fill="#38BDF8" />
   <rect x="99.71%" y="0" width="0.09%" height="10" fill="#38BDF8" />
+  <rect x="99.80%" y="0" width="0.07%" height="10" fill="#2496ED" />
+  <rect x="99.87%" y="0" width="0.05%" height="10" fill="#b07219" />
 </svg>
 
 <br/>
@@ -128,6 +130,8 @@
 <tr>
   <td align="center" width="20%"><b>#11</b><br/><img src="https://img.shields.io/badge/EJS-1E293B?style=flat-square" alt="EJS" /><br/><sub><b>0.1%</b></sub></td>
   <td align="center" width="20%"><b>#12</b><br/><img src="https://img.shields.io/badge/CMake-1E293B?style=flat-square" alt="CMake" /><br/><sub><b>0.1%</b></sub></td>
+  <td align="center" width="20%"><b>#13</b><br/><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /><br/><sub><b>0.1%</b></sub></td>
+  <td align="center" width="20%"><b>#14</b><br/><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /><br/><sub><b>0.1%</b></sub></td>
 </tr>
 </table>
 
