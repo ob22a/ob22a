@@ -53,30 +53,30 @@
 <table width="100%">
 <tr>
   <td width="50%">
+    <h3><a href="https://github.com/ob22a/ml-lab">ml-lab</a></h3>
+    <p>No description yet.</p>
+    <p><img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></p>
+    <p><sub>🔨 13 commits · ⭐ 0</sub></p>
+  </td>
+  <td width="50%">
     <h3><a href="https://github.com/ob22a/CiviLink">CiviLink</a></h3>
     <p>A secure, role-based government services portal built on the MERN stack. Features strict data validation, production-grade RBAC authentication, and a comprehensive suite of nearly 200 tests</p>
     <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/Chapa%20payment%20integration-1E293B?style=flat-square" alt="Chapa payment integration" /> <img src="https://img.shields.io/badge/Exceljs-1E293B?style=flat-square" alt="Exceljs" /></p>
     <p><sub>🔨 195 commits · ⭐ 2</sub></p>
   </td>
+</tr>
+<tr>
   <td width="50%">
     <h3><a href="https://github.com/ob22a/ai-lab">ai-lab</a></h3>
     <p>A highly modular Object-Oriented AI framework and interactive lab implemented in Python. Features automated benchmarking, pluggable solver engines, and interactive Pygame visualizers for Search, CSPs, Optimization, and Adversarial Games.</p>
     <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Adversarial%20search-1E293B?style=flat-square" alt="Adversarial search" /> <img src="https://img.shields.io/badge/Ai%20visualization-1E293B?style=flat-square" alt="Ai visualization" /></p>
     <p><sub>🔨 102 commits · ⭐ 4</sub></p>
   </td>
-</tr>
-<tr>
   <td width="50%">
     <h3><a href="https://github.com/ob22a/aau_grade_bot">aau_grade_bot</a></h3>
     <p> A highly scalable, secure Telegram bot for Addis Ababa University students. Features automated cohort-based grade tracking, instant push notifications, robust AES-256-GCM encryption, and an asynchronous Hexagonal Architecture.</p>
     <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Mako-1E293B?style=flat-square" alt="Mako" /> <img src="https://img.shields.io/badge/Aiogram-1E293B?style=flat-square" alt="Aiogram" /> <img src="https://img.shields.io/badge/Asyncpg-1E293B?style=flat-square" alt="Asyncpg" /></p>
     <p><sub>🔨 98 commits · ⭐ 1</sub></p>
-  </td>
-  <td width="50%">
-    <h3><a href="https://github.com/ob22a/Web-donation">Web-donation</a></h3>
-    <p>A comprehensive full-stack web application designed to bridge the gap between donors and Non-Governmental Organizations (NGOs). This platform facilitates transparent, secure, and efficient online donations for various campaigns and causes.</p>
-    <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/Bcrypt-1E293B?style=flat-square" alt="Bcrypt" /> <img src="https://img.shields.io/badge/Cloudinary-1E293B?style=flat-square" alt="Cloudinary" /></p>
-    <p><sub>🔨 49 commits · ⭐ 0</sub></p>
   </td>
 </tr>
 </table>
@@ -94,34 +94,34 @@
 <div align="center">
 
 <svg width="100%" height="10" rx="5" xmlns="http://www.w3.org/2000/svg" style="border-radius: 5px; overflow: hidden;">
-  <rect x="0.00%" y="0" width="28.63%" height="10" fill="#3178c6" />
-  <rect x="28.63%" y="0" width="24.24%" height="10" fill="#3572A5" />
-  <rect x="52.87%" y="0" width="16.44%" height="10" fill="#A97BFF" />
-  <rect x="69.31%" y="0" width="14.93%" height="10" fill="#f1e05a" />
-  <rect x="84.24%" y="0" width="4.67%" height="10" fill="#f34b7d" />
-  <rect x="88.91%" y="0" width="3.88%" height="10" fill="#e34c26" />
-  <rect x="92.79%" y="0" width="3.47%" height="10" fill="#DA5B0B" />
-  <rect x="96.26%" y="0" width="2.46%" height="10" fill="#00B4AB" />
-  <rect x="98.72%" y="0" width="0.65%" height="10" fill="#563d7c" />
-  <rect x="99.37%" y="0" width="0.18%" height="10" fill="#00ADD8" />
-  <rect x="99.55%" y="0" width="0.15%" height="10" fill="#38BDF8" />
-  <rect x="99.70%" y="0" width="0.09%" height="10" fill="#38BDF8" />
+  <rect x="0.00%" y="0" width="28.29%" height="10" fill="#3178c6" />
+  <rect x="28.29%" y="0" width="24.00%" height="10" fill="#3572A5" />
+  <rect x="52.30%" y="0" width="16.25%" height="10" fill="#A97BFF" />
+  <rect x="68.54%" y="0" width="14.75%" height="10" fill="#f1e05a" />
+  <rect x="83.29%" y="0" width="4.62%" height="10" fill="#f34b7d" />
+  <rect x="87.91%" y="0" width="4.57%" height="10" fill="#DA5B0B" />
+  <rect x="92.48%" y="0" width="3.83%" height="10" fill="#e34c26" />
+  <rect x="96.31%" y="0" width="2.43%" height="10" fill="#00B4AB" />
+  <rect x="98.74%" y="0" width="0.64%" height="10" fill="#563d7c" />
+  <rect x="99.38%" y="0" width="0.18%" height="10" fill="#00ADD8" />
+  <rect x="99.56%" y="0" width="0.15%" height="10" fill="#38BDF8" />
+  <rect x="99.71%" y="0" width="0.09%" height="10" fill="#38BDF8" />
 </svg>
 
 <br/>
 
 <table width="100%">
 <tr>
-  <td align="center" width="20%"><b>#1</b><br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /><br/><sub><b>28.6%</b></sub></td>
-  <td align="center" width="20%"><b>#2</b><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br/><sub><b>24.2%</b></sub></td>
-  <td align="center" width="20%"><b>#3</b><br/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /><br/><sub><b>16.4%</b></sub></td>
-  <td align="center" width="20%"><b>#4</b><br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /><br/><sub><b>14.9%</b></sub></td>
-  <td align="center" width="20%"><b>#5</b><br/><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /><br/><sub><b>4.7%</b></sub></td>
+  <td align="center" width="20%"><b>#1</b><br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /><br/><sub><b>28.3%</b></sub></td>
+  <td align="center" width="20%"><b>#2</b><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br/><sub><b>24.0%</b></sub></td>
+  <td align="center" width="20%"><b>#3</b><br/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /><br/><sub><b>16.2%</b></sub></td>
+  <td align="center" width="20%"><b>#4</b><br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /><br/><sub><b>14.7%</b></sub></td>
+  <td align="center" width="20%"><b>#5</b><br/><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /><br/><sub><b>4.6%</b></sub></td>
 </tr>
 <tr>
-  <td align="center" width="20%"><b>#6</b><br/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /><br/><sub><b>3.9%</b></sub></td>
-  <td align="center" width="20%"><b>#7</b><br/><img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /><br/><sub><b>3.5%</b></sub></td>
-  <td align="center" width="20%"><b>#8</b><br/><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /><br/><sub><b>2.5%</b></sub></td>
+  <td align="center" width="20%"><b>#6</b><br/><img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /><br/><sub><b>4.6%</b></sub></td>
+  <td align="center" width="20%"><b>#7</b><br/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /><br/><sub><b>3.8%</b></sub></td>
+  <td align="center" width="20%"><b>#8</b><br/><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /><br/><sub><b>2.4%</b></sub></td>
   <td align="center" width="20%"><b>#9</b><br/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /><br/><sub><b>0.6%</b></sub></td>
   <td align="center" width="20%"><b>#10</b><br/><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" /><br/><sub><b>0.2%</b></sub></td>
 </tr>
@@ -149,7 +149,7 @@
 <!--START_SECTION:cp-stats-->
 <div align="center">
 
-**Codeforces** — [`ob22a`](https://codeforces.com/profile/ob22a) · rating **1091** (max 1091) · newbie · **252** solved ┆ 📁 [*Repository*](https://github.com/ob22a/Codeforce)<br/><br/>**LeetCode** — [`ob22a`](https://leetcode.com/ob22a) · **718** solved (314 easy / 344 medium / 60 hard) ┆ 📁 [*Repository*](https://github.com/ob22a/Leetcode)
+**Codeforces** — [`ob22a`](https://codeforces.com/profile/ob22a) · rating **1091** (max 1091) · newbie · **252** solved ┆ 📁 [*Repository*](https://github.com/ob22a/Codeforce)<br/><br/>**LeetCode** — [`ob22a`](https://leetcode.com/ob22a) · **726** solved (316 easy / 347 medium / 63 hard) ┆ 📁 [*Repository*](https://github.com/ob22a/Leetcode)
 
 </div>
 <!--END_SECTION:cp-stats-->
