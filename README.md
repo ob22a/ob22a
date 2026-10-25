@@ -54,8 +54,8 @@
 <tr>
   <td width="50%">
     <h3><a href="https://github.com/ob22a/ml-lab">ml-lab</a></h3>
-    <p>No description yet.</p>
-    <p><img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></p>
+    <p>A hands-on machine learning laboratory exploring mathematical foundations, classical ML, neural networks, and advanced AI through from-scratch implementations, interactive Jupyter notebooks, visualizations, and empirical experiments. </p>
+    <p><img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Information%20theory-1E293B?style=flat-square" alt="Information theory" /> <img src="https://img.shields.io/badge/Machine%20learning-1E293B?style=flat-square" alt="Machine learning" /></p>
     <p><sub>🔨 13 commits · ⭐ 0</sub></p>
   </td>
   <td width="50%">
