@@ -151,7 +151,7 @@
 <!--START_SECTION:cp-stats-->
 <div align="center">
 
-**Codeforces** — [`ob22a`](https://codeforces.com/profile/ob22a) · rating **1091** (max 1091) · newbie · **252** solved ┆ 📁 [*Repository*](https://github.com/ob22a/Codeforce)<br/><br/>**LeetCode** — [`ob22a`](https://leetcode.com/ob22a) · **729** solved (317 easy / 349 medium / 63 hard) ┆ 📁 [*Repository*](https://github.com/ob22a/Leetcode)
+**Codeforces** — [`ob22a`](https://codeforces.com/profile/ob22a) · rating **1091** (max 1091) · newbie · **125** solved ┆ 📁 [*Repository*](https://github.com/ob22a/Codeforce)<br/><br/>**LeetCode** — [`ob22a`](https://leetcode.com/ob22a) · **729** solved (317 easy / 349 medium / 63 hard) ┆ 📁 [*Repository*](https://github.com/ob22a/Leetcode)
 
 </div>
 <!--END_SECTION:cp-stats-->
