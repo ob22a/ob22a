@@ -94,34 +94,34 @@
 <div align="center">
 
 <svg width="100%" height="10" rx="5" xmlns="http://www.w3.org/2000/svg" style="border-radius: 5px; overflow: hidden;">
-  <rect x="0.00%" y="0" width="28.17%" height="10" fill="#3178c6" />
-  <rect x="28.17%" y="0" width="23.91%" height="10" fill="#3572A5" />
-  <rect x="52.08%" y="0" width="16.17%" height="10" fill="#A97BFF" />
-  <rect x="68.26%" y="0" width="14.68%" height="10" fill="#f1e05a" />
-  <rect x="82.94%" y="0" width="4.97%" height="10" fill="#DA5B0B" />
-  <rect x="87.92%" y="0" width="4.60%" height="10" fill="#f34b7d" />
-  <rect x="92.51%" y="0" width="3.81%" height="10" fill="#e34c26" />
-  <rect x="96.33%" y="0" width="2.42%" height="10" fill="#00B4AB" />
-  <rect x="98.75%" y="0" width="0.64%" height="10" fill="#563d7c" />
-  <rect x="99.39%" y="0" width="0.18%" height="10" fill="#00ADD8" />
-  <rect x="99.57%" y="0" width="0.15%" height="10" fill="#38BDF8" />
-  <rect x="99.71%" y="0" width="0.09%" height="10" fill="#38BDF8" />
-  <rect x="99.80%" y="0" width="0.07%" height="10" fill="#2496ED" />
+  <rect x="0.00%" y="0" width="27.61%" height="10" fill="#3178c6" />
+  <rect x="27.61%" y="0" width="23.44%" height="10" fill="#3572A5" />
+  <rect x="51.05%" y="0" width="15.85%" height="10" fill="#A97BFF" />
+  <rect x="66.90%" y="0" width="14.39%" height="10" fill="#f1e05a" />
+  <rect x="81.30%" y="0" width="6.86%" height="10" fill="#DA5B0B" />
+  <rect x="88.16%" y="0" width="4.51%" height="10" fill="#f34b7d" />
+  <rect x="92.66%" y="0" width="3.74%" height="10" fill="#e34c26" />
+  <rect x="96.40%" y="0" width="2.38%" height="10" fill="#00B4AB" />
+  <rect x="98.77%" y="0" width="0.62%" height="10" fill="#563d7c" />
+  <rect x="99.40%" y="0" width="0.17%" height="10" fill="#00ADD8" />
+  <rect x="99.57%" y="0" width="0.14%" height="10" fill="#38BDF8" />
+  <rect x="99.72%" y="0" width="0.09%" height="10" fill="#38BDF8" />
+  <rect x="99.81%" y="0" width="0.06%" height="10" fill="#2496ED" />
 </svg>
 
 <br/>
 
 <table width="100%">
 <tr>
-  <td align="center" width="20%"><b>#1</b><br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /><br/><sub><b>28.2%</b></sub></td>
-  <td align="center" width="20%"><b>#2</b><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br/><sub><b>23.9%</b></sub></td>
-  <td align="center" width="20%"><b>#3</b><br/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /><br/><sub><b>16.2%</b></sub></td>
-  <td align="center" width="20%"><b>#4</b><br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /><br/><sub><b>14.7%</b></sub></td>
-  <td align="center" width="20%"><b>#5</b><br/><img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /><br/><sub><b>5.0%</b></sub></td>
+  <td align="center" width="20%"><b>#1</b><br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /><br/><sub><b>27.6%</b></sub></td>
+  <td align="center" width="20%"><b>#2</b><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br/><sub><b>23.4%</b></sub></td>
+  <td align="center" width="20%"><b>#3</b><br/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /><br/><sub><b>15.9%</b></sub></td>
+  <td align="center" width="20%"><b>#4</b><br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /><br/><sub><b>14.4%</b></sub></td>
+  <td align="center" width="20%"><b>#5</b><br/><img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /><br/><sub><b>6.9%</b></sub></td>
 </tr>
 <tr>
-  <td align="center" width="20%"><b>#6</b><br/><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /><br/><sub><b>4.6%</b></sub></td>
-  <td align="center" width="20%"><b>#7</b><br/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /><br/><sub><b>3.8%</b></sub></td>
+  <td align="center" width="20%"><b>#6</b><br/><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /><br/><sub><b>4.5%</b></sub></td>
+  <td align="center" width="20%"><b>#7</b><br/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /><br/><sub><b>3.7%</b></sub></td>
   <td align="center" width="20%"><b>#8</b><br/><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /><br/><sub><b>2.4%</b></sub></td>
   <td align="center" width="20%"><b>#9</b><br/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /><br/><sub><b>0.6%</b></sub></td>
   <td align="center" width="20%"><b>#10</b><br/><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" /><br/><sub><b>0.2%</b></sub></td>
